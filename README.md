@@ -1,3 +1,1 @@
-NAME:VarunPoloju
-ROLL NO:2211cs010466
-CGPA:7.9
+CGPA:7.6
